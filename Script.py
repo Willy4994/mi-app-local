@@ -1,6 +1,6 @@
 def saludar():
-    print("Conexión exitosa entre Local y GitHub")
-    print("Analizando cambios para la tarea...")
+    print("Conexión exitosa")
+    print("Analizando cambios")
 
 if __name__ == "__main__":
     saludar()
